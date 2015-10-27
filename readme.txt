@@ -5,3 +5,4 @@ Git tracks changes of files
 
 Test git rest command.
 
+My stupid boss still preffers SVN.
