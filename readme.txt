@@ -6,3 +6,5 @@ Git tracks changes of files
 Test git rest command.
 
 My stupid boss still preffers SVN.
+
+Test git pull [remote-name] [branch-name]
